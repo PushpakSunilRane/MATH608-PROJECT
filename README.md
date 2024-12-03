@@ -1,2 +1,6 @@
 # MATH608-PROJECT
-MATH-608 Project 
+
+Topic :- SQL vs NO-SQL
+
+SQL - Structured Query Language
+NO-SQL - NO Only SQL
