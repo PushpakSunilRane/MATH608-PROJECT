@@ -1,8 +1,8 @@
-# MATH608-PROJECT
+# _MATH608-PROJECT_
 
-# Topic :- SQL vs NO-SQL
+# Topic :- _SQL vs NO-SQL_
 
-# SQL - Structured Query Language
-# - SQLite Database
-# NO-SQL - NO Only SQL
-# - MongoDB Database
+# _SQL - Structured Query Language_
+   - SQLite Database
+# _NO-SQL - NO Only SQL_
+   - MongoDB Database
