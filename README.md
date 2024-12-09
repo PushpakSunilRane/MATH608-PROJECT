@@ -4,5 +4,5 @@
 
 # _SQL - Structured Query Language_
    - SQLite Database
-# _NO-SQL - NO Only SQL_
+# _NO-SQL - Not Only SQL_
    - MongoDB Database
